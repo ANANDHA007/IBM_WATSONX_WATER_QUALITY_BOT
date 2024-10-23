@@ -1,6 +1,4 @@
----
-title: Water Quality Monitoring and AI-Powered Chatbot
----
+# Water Quality Monitoring and AI-Powered Chatbot
 
 # Overview
 
