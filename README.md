@@ -1,4 +1,4 @@
-﻿Water Quality Monitoring and AI-Powered Chatbot
+Water Quality Monitoring and AI-Powered Chatbot
 # **Overview**
 This project leverages IBM watsonx Assistant to create an intelligent chatbot that provides detailed insights into water quality metrics. The solution aligns with Sustainable Development Goal 6 (SDG 6) by supporting clean water and sanitation through real-time data and meaningful analysis.
 # **Features**
